@@ -1,0 +1,114 @@
+h1 {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+h2 {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+h3 {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+
+em {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+code {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+a {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+strong {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+blockquote {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+
+}
+
+li {
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+p {
+    display: inline;
+    font-family: %textFont@;
+    font-style: normal;
+    font-size: %textSize@pt;
+    line-height: 143%;
+    letter-spacing: 0.14pt;
+    color: %textColor@
+}
+
+div {
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 100;
+    display: -webkit-inline-box;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    background-color: gold;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
